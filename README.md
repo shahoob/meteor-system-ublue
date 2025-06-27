@@ -1,3 +1,8 @@
+# `meteor` system
+
+Some personal extras for my ideal Universal Blue setup (Bazzite DX).
+This is made public for being able to rebase easily and to provide some learning opportunity for those who seek their own custom images. Don't actually use this for your machine, it will change based on mine!
+
 # image-template
 
 # Purpose
