@@ -25,5 +25,5 @@ set -ouex pipefail
 
 # Create root nix folder
 mkdir /nix
-chmod -R 1777 /nix
+# chmod -R 1777 /nix
 
